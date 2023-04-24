@@ -67,8 +67,7 @@ a {
 }
 
 .d img {
-    height: auto;
-    width: 500px;
+    max-width: 100%;
 }
 
 /* Content Container */
